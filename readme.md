@@ -2,7 +2,7 @@
 
 #### Student Name: *Shane Crowley* | Student ID: *W20109015*
 
-> [Note]
+> [!Note]
 > This repo is for learning purposes
 
 BoxTrack is an inventory management device that enables a user to track their
